@@ -1,0 +1,2 @@
+# ananyaku
+print("Hello world!")
